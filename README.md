@@ -132,17 +132,7 @@ ExtractArt/checkpoints/outliers_genre.csv    genre outliers
 ExtractArt/checkpoints/outliers_artist.csv   artist outliers
 ```
 
----
 
-## Expected Performance (10k images, 25 epochs)
-
-| Task | Classes | Top-1 | Top-5 | W-F1 |
-|------|---------|-------|-------|------|
-| Style | 27 | 55–70% | 80–88% | 52–68% |
-| Genre | 10 | 60–75% | 85–92% | 58–72% |
-| Artist | 195 | 45–60% | 75–85% | 42–58% |
-
----
 
 ## After Every Runtime Restart
 
